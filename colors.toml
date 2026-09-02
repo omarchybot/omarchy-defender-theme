@@ -1,0 +1,35 @@
+mode = "dark"
+
+# OMARCHY DEFENDER THEME — palette sampled from the actual 1980 Williams
+# Defender ROMs (source-built, running in MAME). Space black, planet-terrain
+# orange, scanner cyan, lander green, mutant red, baiter magenta.
+
+accent = "#ff5100"
+selection = "#3a1a00"
+muted = "#7a4a2a"
+
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#1a0d00"
+
+foreground = "#e8e0d8"
+dark_foreground = "#8a7a6a"
+light_foreground = "#f4ece4"
+bright_foreground = "#ffffff"
+
+red = "#ff2020"
+yellow = "#ffae00"
+orange = "#ff5100"
+green = "#00d100"
+cyan = "#00e0e0"
+blue = "#5a7aff"
+magenta = "#ff00a0"
+brown = "#762600"
+
+bright_red = "#ff6050"
+bright_yellow = "#ffd040"
+bright_green = "#40ff40"
+bright_cyan = "#60ffff"
+bright_blue = "#8aa0ff"
+bright_magenta = "#ff50c0"
